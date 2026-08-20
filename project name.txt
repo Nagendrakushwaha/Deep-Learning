@@ -1,0 +1,17 @@
+| #  | Project Name                                           | Main Technologies                        | Difficulty |
+| -- | ------------------------------------------------------ | ---------------------------------------- | ---------- |
+| 1  | **AI-Powered Multi-Document RAG Assistant**            | LLM, RAG, FAISS/Chroma, Transformers     | ?????      |
+| 2  | **AI Resume Analyzer & Job Matching System**           | NLP, Transformers, LLM, RAG              | ?????      |
+| 3  | **Intelligent Customer Support Agent**                 | LLM, RAG, LangChain/LangGraph            | ?????      |
+| 4  | **AI-Powered Code Documentation & QA Assistant**       | LLM, RAG, GitHub API                     | ?????      |
+| 5  | **Multilingual AI Translation & Summarization System** | Transformers, Seq2Seq, Attention         | ????       |
+| 6  | **AI Research Paper Intelligence System**              | RAG, embeddings, vector DB, LLM          | ?????      |
+| 7  | **Network Intrusion Detection + LLM Security Analyst** | ML/DL, NIDS, LLM, RAG                    | ?????      |
+| 8  | **AI SQL Analyst — Natural Language to SQL**           | LLM, SQL, RAG, agents                    | ?????      |
+| 9  | **Intelligent Document Understanding System**          | OCR, NLP, Transformers, RAG              | ?????      |
+| 10 | **AI Financial Fraud Investigation Agent**             | ML, anomaly detection, LLM, RAG          | ?????      |
+| 11 | **Multimodal AI Assistant**                            | Vision-Language Model, LLM, RAG          | ?????      |
+| 12 | **Autonomous Data Analyst Agent**                      | Python, SQL, LLM, agents, visualization  | ?????      |
+| 13 | **AI-Powered E-Commerce Recommendation Agent**         | Recommenders, embeddings, LLM            | ????       |
+| 14 | **Medical Research RAG Assistant**                     | RAG, embeddings, LLM, document retrieval | ?????      |
+| 15 | **AI Cybersecurity Threat Intelligence Platform**      | NLP, RAG, LLM, ML                        | ?????      |
